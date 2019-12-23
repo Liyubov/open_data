@@ -9,5 +9,6 @@ here we collect information about various open data sources,
 4. Data challange on mobility of trains in Switzerland https://www.crowdai.org/challenges/train-schedule-optimisation-challenge 
 5. Taxi open data https://github.com/brianbader/nyc_taxi
 6. Open mobility Foundation with APIs for analysis of scooters, ebikes etc. https://github.com/openmobilityfoundation/mobility-data-specification
+7. motion sense open data, forked repository https://github.com/Liyubov/motion-sense 
 
 
