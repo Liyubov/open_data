@@ -10,5 +10,6 @@ here we collect information about various open data sources,
 5. Taxi open data https://github.com/brianbader/nyc_taxi
 6. Open mobility Foundation with APIs for analysis of scooters, ebikes etc. https://github.com/openmobilityfoundation/mobility-data-specification
 7. motion sense open data, forked repository https://github.com/Liyubov/motion-sense 
-
+8. bikes sharing systems https://github.com/Liyubov/bike-sharing
+9. public mobility data from the project openmobilitydata.org https://github.com/OpenMobilityData/OpenMobilityData-Public data from 1233 providers in 672 locations worldwide.
 
