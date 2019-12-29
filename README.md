@@ -12,4 +12,5 @@ here we collect information about various open data sources,
 7. motion sense open data, forked repository https://github.com/Liyubov/motion-sense 
 8. analysis of open street maps and osmnx module https://github.com/gboeing/osmnx
 9. public mobility data from the project openmobilitydata.org https://github.com/OpenMobilityData/OpenMobilityData-Public data from 1233 providers in 672 locations worldwide.
+10. nice library for analysis of mobility www.scikit-mobility/scikit-mobility 
 
