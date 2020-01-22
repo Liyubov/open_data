@@ -15,6 +15,7 @@ here we collect information about various open data sources,
 10. nice library for analysis of mobility www.scikit-mobility/scikit-mobility 
 11. daily mobility patterns of women and men occurring in Medellín (Colombia) in two years: 2005 and 2017 https://arxiv.org/abs/1911.12984
 12. Kaggle data on human mobility during disaster https://www.kaggle.com/dryad/human-mobility-during-natural-disasters
-13. Oopen data challange in 2019 on mobility in Saclay https://www.moveinsaclay.app/ 
+13. Open data challange in 2019 on mobility in Saclay https://www.moveinsaclay.app/ 
 14. Uber data challange open data https://eng.uber.com/category/articles/uberdata/ and https://www.kaggle.com/theoddwaffle/uber-data-analysis 
+15. Hungarian source of data https://bkk.hu/en/developers/ 
 
