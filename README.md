@@ -18,4 +18,5 @@ here we collect information about various open data sources,
 13. Open data challange in 2019 on mobility in Saclay https://www.moveinsaclay.app/ 
 14. Uber data challange open data https://eng.uber.com/category/articles/uberdata/ and https://www.kaggle.com/theoddwaffle/uber-data-analysis 
 15. Hungarian source of data https://bkk.hu/en/developers/ 
+16. Flowmap module https://github.com/teralytics/flowmap.gl with example of data from https://rsq.unhcr.org/en/#09Bu
 
