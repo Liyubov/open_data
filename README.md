@@ -19,4 +19,5 @@ here we collect information about various open data sources,
 14. Uber data challange open data https://eng.uber.com/category/articles/uberdata/ and https://www.kaggle.com/theoddwaffle/uber-data-analysis 
 15. Hungarian source of data https://bkk.hu/en/developers/ 
 16. Flowmap module https://github.com/teralytics/flowmap.gl with example of data from https://rsq.unhcr.org/en/#09Bu
+17. Geolocation trajectories Geolife from Microsoft https://www.microsoft.com/en-us/download/confirmation.aspx?id=52367
 
