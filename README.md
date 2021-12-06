@@ -22,3 +22,6 @@ here we collect information about various open data sources,
 17. Geolocation trajectories Geolife from Microsoft https://www.microsoft.com/en-us/download/confirmation.aspx?id=52367
 18. Montreale commute data https://github.com/tsloan1377/montreal_open_data
 
+# Open data by country
+1. India https://indiadatainsights.com/about/ 
+2. France https://opendata.paris.fr/pages/home/
